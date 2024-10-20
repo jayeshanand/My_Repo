@@ -2,4 +2,6 @@ Name : Jayesh Anand
 Age: 21
 Sex: Male
 Safeword: PINEAPPLE
-Animal: Princess
+Animal(Local): Princess
+Animal(GitHub): KING
+
