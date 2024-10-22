@@ -4,5 +4,3 @@ Sex: Male
 Safeword: PINEAPPLE
 Animal(Local): Princess
 Animal(GitHub): KING
-
-Timeline: Duapar Yug
