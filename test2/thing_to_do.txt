@@ -1,0 +1,3 @@
+1. image upload in register_dashboard.html
+2. ZIP codes in a new table - efficient + Standard SQL queries
+    or ZIP codes as a comma seperated value - inefficient + strange SQL queries
